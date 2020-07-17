@@ -1,0 +1,9 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .gitignore	(date 1594844397840)
++++ .gitignore	(date 1594844397840)
+@@ -0,0 +1,1 @@
++/MySQL Tutorial/secret.py

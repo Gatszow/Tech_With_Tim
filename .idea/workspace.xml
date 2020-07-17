@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc06d5ad-2d42-4048-bd42-ecf7b66617ef" name="Default Changelist" comment="Adding MySQL Tutorial" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eXAsSHDHdn9Y8rsz5p9lRk1QU1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Takezaki\Desktop\Programowanie\Programy_stworzone\Programy_kursy\Tech With Tim\Selenium Tutorial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="FirstAndSecond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tech With Tim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Takezaki\Desktop\Programowanie\Programy_stworzone\Programy_kursy\Tech With Tim\Selenium Tutorial\FirstAndSecond.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fourth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tech With Tim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Tutorial/Fourth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Third" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tech With Tim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium Tutorial/Third.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Tech With Tim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MySQL Tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MySQL Tutorial/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in main.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Tech With Tim" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium Tutorial/Unittest - Fifth and Sixth" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Selenium Tutorial/Unittest - Fifth and Sixth/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Fourth" />
+        <item itemvalue="Python tests.Unittests in main.py" />
+        <item itemvalue="Python.Third" />
+        <item itemvalue="Python.FirstAndSecond" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc06d5ad-2d42-4048-bd42-ecf7b66617ef" name="Default Changelist" comment="" />
+      <created>1594457769945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594457769945</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New files">
+      <created>1594470003859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594470003859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding MySQL Tutorial">
+      <created>1594844013982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594844013982</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding MySQL Tutorial">
+      <created>1594844184080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594844184080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding MySQL Tutorial">
+      <created>1594844666213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594844666213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New files" />
+    <MESSAGE value="Adding MySQL Tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding MySQL Tutorial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="599" height="442" key="Diff.GoToChangePopup" timestamp="1594844346864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="599" height="442" key="Diff.GoToChangePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1594844346863" />
+    <state x="227" y="93" key="DiffContextDialog" timestamp="1594844346974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="227" y="93" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594844346974" />
+    <state width="1004" height="202" key="GridCell.Tab.0.bottom" timestamp="1594975245781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1004" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594975245781" />
+    <state width="1004" height="202" key="GridCell.Tab.0.center" timestamp="1594975245781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1004" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594975245781" />
+    <state width="1004" height="202" key="GridCell.Tab.0.left" timestamp="1594975245781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1004" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594975245781" />
+    <state width="1004" height="202" key="GridCell.Tab.0.right" timestamp="1594975245781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1004" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594975245781" />
+    <state width="861" height="148" key="GridCell.Tab.1.bottom" timestamp="1594471301768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="861" height="148" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594471301768" />
+    <state width="861" height="148" key="GridCell.Tab.1.center" timestamp="1594471301768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="861" height="148" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594471301768" />
+    <state width="861" height="148" key="GridCell.Tab.1.left" timestamp="1594471301768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="861" height="148" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594471301768" />
+    <state width="861" height="148" key="GridCell.Tab.1.right" timestamp="1594471301768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="861" height="148" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594471301768" />
+    <state x="878" y="315" key="RollbackChangesDialog" timestamp="1594844297292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="878" y="315" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594844297292" />
+    <state x="595" y="260" key="Vcs.Push.Dialog.v2" timestamp="1594844669043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594844669043" />
+    <state x="1074" y="527" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594844628567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1074" y="527" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594844628567" />
+    <state x="1056" y="332" width="672" height="678" key="search.everywhere.popup" timestamp="1594839597689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1056" y="332" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594839597689" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
